@@ -1,1 +1,4 @@
 # appTarefas
+
+usar
+expo install
